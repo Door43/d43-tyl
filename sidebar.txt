@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tyl:home|Door43 (tyl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tyl|d43-tyl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tyl/archive/master.zip|d43-tyl.zip]]
+
+**Recent Changes**
+{{changes>ns = tyl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tyl|Ethnologue data]]
+
